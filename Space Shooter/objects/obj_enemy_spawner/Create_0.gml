@@ -1,0 +1,4 @@
+/// @description initialize the spawner
+
+alarm[0] = room_speed * 3;
+
