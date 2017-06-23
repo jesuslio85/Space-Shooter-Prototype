@@ -1,4 +1,5 @@
 /// @description initialize the spawner
+#macro SPAWNER_ALARM 0
 
-alarm[0] = room_speed * 3;
+alarm[SPAWNER_ALARM] = room_speed * 3;
 
