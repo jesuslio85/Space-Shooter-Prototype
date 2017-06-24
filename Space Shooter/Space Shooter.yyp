@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "503c7992-a720-411c-9702-2eac572ee3b1",
+            "Value": {
+                "id": "58a619e3-111d-4e12-8c44-df44cec4487e",
+                "resourcePath": "objects\\obj_screen_flash\\obj_screen_flash.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "526c68ba-b67e-4b64-8ee8-69fc97f947d3",
             "Value": {
                 "id": "10c95c13-2298-4f51-91b7-fadba4789069",
