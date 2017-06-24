@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "05e3bb54-08a9-4495-ba8a-06e21e3fe9a9",
+            "Value": {
+                "id": "b4a8284b-6b85-4422-8a5c-44d714ea0bff",
+                "resourcePath": "objects\\obj_armor_power\\obj_armor_power.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "095182bf-334f-42f2-8202-2f9a432dd609",
             "Value": {
                 "id": "4f3ddd89-df11-4ad1-a029-f835437fabd6",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "70342ebd-cb62-4289-b64d-76c3df713813",
+            "Value": {
+                "id": "b15da152-0394-4085-a56f-34cca7ddfd6b",
+                "resourcePath": "sprites\\spr_armor_powerup\\spr_armor_powerup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73b7b925-404e-45fa-b547-32179b248ad9",
             "Value": {
                 "id": "8a4f93f3-2240-464d-887e-986c62dbf2c1",
@@ -291,6 +307,14 @@
             "Value": {
                 "id": "e5e25ce4-d8c1-40ab-8b20-468e39c6e409",
                 "resourcePath": "objects\\obj_laser\\obj_laser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cab537dc-326d-405c-9286-2efdc71e532c",
+            "Value": {
+                "id": "116e6075-bbba-4327-8857-0fed79cf2cc3",
+                "resourcePath": "objects\\obj_powerup_parent\\obj_powerup_parent.yy",
                 "resourceType": "GMObject"
             }
         },
