@@ -42,7 +42,7 @@
             "Key": "05e3bb54-08a9-4495-ba8a-06e21e3fe9a9",
             "Value": {
                 "id": "b4a8284b-6b85-4422-8a5c-44d714ea0bff",
-                "resourcePath": "objects\\obj_armor_power\\obj_armor_power.yy",
+                "resourcePath": "objects\\obj_armor_powerup\\obj_armor_powerup.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "68f3cb42-9f0c-4448-9656-12747946cb0d",
+            "Value": {
+                "id": "ba89f6ec-31d1-49be-b07d-e71a2d2fb805",
+                "resourcePath": "objects\\obj_laser_powerup\\obj_laser_powerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6efc8e0c-4a4c-49e0-9a37-70c4cdabb1d7",
             "Value": {
                 "id": "548e12b3-429e-47fe-ad27-fe5a19791a31",
@@ -235,6 +243,14 @@
             "Value": {
                 "id": "dc17d2c8-a313-4ec6-828c-78187ba73bc3",
                 "resourcePath": "sprites\\spr_laser\\spr_laser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a13b26d2-985a-498f-b9e7-e87bf9c09df6",
+            "Value": {
+                "id": "925815d8-06e2-40f1-b872-b7dbf6cb71a0",
+                "resourcePath": "sprites\\spr_laser_powerup\\spr_laser_powerup.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -388,6 +404,14 @@
                 "id": "9096673a-7450-4515-8b4e-6f2c45d8b968",
                 "resourcePath": "sprites\\spr_explosion_center\\spr_explosion_center.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e62df757-e444-412a-a0c1-b6088d3064dc",
+            "Value": {
+                "id": "33c1d795-fddc-4589-961a-fb3bfbaebd4f",
+                "resourcePath": "views\\e62df757-e444-412a-a0c1-b6088d3064dc.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

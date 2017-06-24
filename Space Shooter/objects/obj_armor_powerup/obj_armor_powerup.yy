@@ -2,7 +2,7 @@
     "id": "05e3bb54-08a9-4495-ba8a-06e21e3fe9a9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_armor_power",
+    "name": "obj_armor_powerup",
     "eventList": [
         
     ],
