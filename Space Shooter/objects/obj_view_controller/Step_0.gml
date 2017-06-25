@@ -1,4 +1,6 @@
 /// @description update the view position
 
-camera_get_view_x(0) = random(screenshake);
-camera_get_view_y(0) = random(screenshake);
+camera_set_view_pos(view_camera[0], vx+random_range(0,screenshake), vy+random_range(0,screenshake));
+
+
+
