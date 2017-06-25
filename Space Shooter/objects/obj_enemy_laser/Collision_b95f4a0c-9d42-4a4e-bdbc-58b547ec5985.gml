@@ -6,3 +6,5 @@ other.armor -= 1;
 
 // screen flash
 instance_create_depth(0, 0, -1, obj_screen_flash);
+
+add_screenshake(4, room_speed * .125);
