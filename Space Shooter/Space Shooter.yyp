@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "3372033e-fdd1-48db-a45d-37b3917c2866",
+            "Value": {
+                "id": "9b613136-7d57-4247-aa61-7c79485e2aea",
+                "resourcePath": "objects\\obj_particle_creator\\obj_particle_creator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "37211aff-1c39-4db7-9cfa-ae1754353d96",
             "Value": {
                 "id": "b893cd0a-0720-43fd-9e2b-24be61b40d8b",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "687601b2-c813-405d-b182-0671e2c59f27",
+            "Value": {
+                "id": "74520489-cba3-425e-88ee-7d76f3ff6f4d",
+                "resourcePath": "sprites\\spr_smoke\\spr_smoke.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "68a95e90-b8de-4275-8650-132babcd08e1",
             "Value": {
                 "id": "fae4bc75-d720-4923-9a01-7578b2ac81bb",
@@ -332,6 +348,14 @@
                 "id": "a6b0daf0-89bd-4d66-83cc-7ff42b3b6a20",
                 "resourcePath": "objects\\obj_flare\\obj_flare.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "92a15fbc-c8e0-40f5-8b36-246e162f4168",
+            "Value": {
+                "id": "bf96fae0-7341-495e-bbba-415182d15cf8",
+                "resourcePath": "scripts\\create_explosion\\create_explosion.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -487,6 +511,14 @@
             }
         },
         {
+            "Key": "d0291862-a9c7-4a77-ae82-3655121c7d01",
+            "Value": {
+                "id": "56245e36-c7aa-40ff-af40-d9b68e113642",
+                "resourcePath": "scripts\\create_part_type_sprite\\create_part_type_sprite.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d55e91ea-46cc-49e4-9417-a24af4d0444c",
             "Value": {
                 "id": "c4859638-16ca-414c-94ff-cc68d50f942c",
@@ -608,7 +640,9 @@
         }
     ],
     "script_order": [
-        "ad3588f4-0866-4641-9783-3b4db0b5a849"
+        "ad3588f4-0866-4641-9783-3b4db0b5a849",
+        "d0291862-a9c7-4a77-ae82-3655121c7d01",
+        "92a15fbc-c8e0-40f5-8b36-246e162f4168"
     ],
     "tutorial": ""
 }

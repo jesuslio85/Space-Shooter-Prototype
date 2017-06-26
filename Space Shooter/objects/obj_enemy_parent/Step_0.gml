@@ -6,7 +6,8 @@ if (y > room_height + 16) {
 
 // death code
 if (armor <= 0) {
-	instance_create_depth(x, y, -1, obj_explosion_center);
+	//instance_create_depth(x, y, -1, obj_explosion_center);
+	create_explosion(x, y);
 	instance_destroy();
 	
 	// increase score
