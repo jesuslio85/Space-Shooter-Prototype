@@ -7,3 +7,5 @@ armor = 0;
 
 // screen flash
 instance_create_depth(0, 0, -1, obj_screen_flash);
+
+audio_play_sound(audio_ship_hit, 6, false);
